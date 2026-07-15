@@ -221,17 +221,15 @@ color:#eeeeee;
 .musicbox{
     position:absolute;
     left:50%;
-    bottom:70px;
+    bottom:100px;
     transform:translateX(-50%);
     width:500px;
     padding:20px;
     border-radius:20px;
     background:rgba(255,255,255,.08);
     backdrop-filter:blur(14px);
-    border:1px solid rgba(255,255,255,.15);
     text-align:center;
 }
-
 .musicbox h3{
     font-family: 'Outfit', sans-serif;
     font-size: 28px;
